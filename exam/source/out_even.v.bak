@@ -1,0 +1,14 @@
+module out_even(in, out);
+	input [31:0] in;
+	output [6:0] out;
+	
+	reg [3:0]  num;
+	
+	sevenseg_even sevenseg_even_inst(num, out);
+	
+	always @ (in)
+	begin 
+		num = in;
+	end
+
+endmodule
