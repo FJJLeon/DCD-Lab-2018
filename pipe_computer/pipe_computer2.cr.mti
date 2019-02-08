@@ -1,0 +1,192 @@
+E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipelined_computer.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipelined_computer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipelined_computer
+
+Top level modules:
+	pipelined_computer
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/mux2x32.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/mux2x32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2x32
+
+Top level modules:
+	mux2x32
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/mux4x32.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/mux4x32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4x32
+
+Top level modules:
+	mux4x32
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/lpm_rom_irom.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/lpm_rom_irom.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lpm_rom_irom
+
+Top level modules:
+	lpm_rom_irom
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipe_cu.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipe_cu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipe_cu
+
+Top level modules:
+	pipe_cu
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/cla32.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/cla32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cla32
+
+Top level modules:
+	cla32
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeemreg.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeemreg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeemreg_M_reg
+
+Top level modules:
+	pipeemreg_M_reg
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/io_input.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/io_input.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module io_input
+-- Compiling module io_input_mux
+
+Top level modules:
+	io_input
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/sevenseg.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/sevenseg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipemwreg.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipemwreg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipemwreg_W_reg
+
+Top level modules:
+	pipemwreg_W_reg
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeexe.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeexe.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeexe_E_stage
+
+Top level modules:
+	pipeexe_E_stage
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/io_output.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/io_output.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module io_output
+
+Top level modules:
+	io_output
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipepc.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipepc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipepc_F_reg
+
+Top level modules:
+	pipepc_F_reg
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeir.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeir.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeir_D_reg
+
+Top level modules:
+	pipeir_D_reg
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/mux2x5.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/mux2x5.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2x5
+
+Top level modules:
+	mux2x5
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/alu.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/dffe32.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/dffe32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dffe32
+
+Top level modules:
+	dffe32
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/out_port_seg.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/out_port_seg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module out_port_seg
+
+Top level modules:
+	out_port_seg
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeid.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeid.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeid_D_stage
+
+Top level modules:
+	pipeid_D_stage
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipe_computer_sim.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipe_computer_sim.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipe_computer_sim
+
+Top level modules:
+	pipe_computer_sim
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipemem.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipemem.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipemem_M_stage
+-- Compiling module IO_datamem
+
+Top level modules:
+	pipemem_M_stage
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeif.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipeif.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeif_F_stage
+
+Top level modules:
+	pipeif_F_stage
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipedereg.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipedereg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipedereg_E_reg
+
+Top level modules:
+	pipedereg_E_reg
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/regfile.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/regfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipe_computer_sim2.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/pipe_computer_sim2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipe_computer_sim2
+
+Top level modules:
+	pipe_computer_sim2
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/clock_and_mem_clock.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/clock_and_mem_clock.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module clock_and_mem_clock
+
+Top level modules:
+	clock_and_mem_clock
+
+} {} {}} E:/junior/DigitalComponentDesign/projects/pipe_computer2/lpm_ram_dq_dram.v {1 {vlog -work work E:/junior/DigitalComponentDesign/projects/pipe_computer2/lpm_ram_dq_dram.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lpm_ram_dq_dram
+
+Top level modules:
+	lpm_ram_dq_dram
+
+} {} {}}

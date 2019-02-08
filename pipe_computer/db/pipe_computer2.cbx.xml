@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="pipe_computer2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst3|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_l3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst4|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_l3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst2|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ibm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst2|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_l3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst3|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_l3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst4|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ibm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst4|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_l3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|pipelined_computer:inst|pipeif_F_stage:IF_stage|lpm_rom_irom:instmem|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_b1m1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|pipelined_computer:inst|pipemem_M_stage2:MEM_stage|IO_datamem2:datamem|lpm_ram_dq_dram:dram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_v6u1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst2|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_l3m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|pipe_computer_IO|out_port_seg:inst3|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ibm.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
