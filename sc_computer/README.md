@@ -17,3 +17,10 @@
 * 仿真测试时编写TestBench时尤其注意命名问题，变量未定义可以被使用，不会直接报错
 * 若在Quartus直接打开ModelSim注意意设置的Top_level_module与 TestBench 中定义的相同，否则仿真会报错 
 * 引脚分配推荐使用文件导入的方式, 注意端口与引脚的对应
+
+### 注意
+* 减法器使用绝对值解决溢出问题，保证结果不会出现负数
+* 使用的汇编器可能与 RAM 存在不匹配的问题，生成的 datamem.mif 文件 DEPTH 需要改为 32，BEGIN 后接 [0..1F]，否则会有错误
+
+### Reference
+* [Wesley-Jzy/SJTU-DCD-LAB-2017](https://github.com/Wesley-Jzy/SJTU-DCD-LAB-2017)
